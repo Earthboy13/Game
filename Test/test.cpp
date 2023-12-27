@@ -2,6 +2,7 @@
 
 void foo(void)
 {
+    const char *Foo = "This is a test.\n";
     OutputDebugStringA("This is a test.\n");
 }
 
